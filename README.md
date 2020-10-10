@@ -1,6 +1,6 @@
 # El juego de la vida 
 
-El juego de la vida es una aproximación interactiva y didáctica para aprener el ciclo de la creacion de proteínas a partir del ADN. El proyecto fue creado en el marco de la materia *Introducción a la Bioinformática* de la carrera Lic. en Informática, [Universidad de Quilmes](www.unq.edu.ar). El juego consta de tres niveles.
+El juego de la vida es una aproximación interactiva y didáctica para aprener el ciclo de la creacion de proteínas a partir del ADN. El proyecto fue creado en el marco de la materia **Introducción a la Bioinformática** de la carrera Lic. en Informática, [Universidad de Quilmes](www.unq.edu.ar). El juego consta de tres niveles.
 
 ## Nivel 1
 
